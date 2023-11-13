@@ -1,7 +1,7 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/001/410/877/original/programming-and-coding-futuristic-banner-vector.jpg)](https://garg2002.io)
 <h1 align="center">Hi 👋, I'm Satyam Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="[https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg](https://storyset.com/illustration/coding-workshop/amico/animate?share=74055)" alt="image not found" align="right" />
+<img src="https://img.freepik.com/premium-vector/programming-office-with-developers-notebook_316839-2306.jpg" alt="image not found" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg2002&label=Profile%20views&color=0e75b6&style=flat" alt="garg2002" /> </p>
 
