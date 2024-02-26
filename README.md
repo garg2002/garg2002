@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **satyamgarg1308@gmail.com**
   
 
 [![An image of @garg2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/garg2002)](https://holopin.io/@garg2002)
