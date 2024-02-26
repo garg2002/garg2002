@@ -1,7 +1,7 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)](https://garg2002.io)
 <h1 align="center">Hi 👋, I'm Satyam Garg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://img.freepik.com/premium-vector/programming-office-with-developers-notebook_316839-2306.jpg" alt="image not found" align="right" />
+<img src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif" alt="image not found" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg2002&label=Profile%20views&color=0e75b6&style=flat" alt="garg2002" /> </p>
 
